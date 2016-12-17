@@ -54,6 +54,7 @@
   *   display: table;
   * }
 */
+/* Susy - grid mixins */
 /* ==========================================================================
    TABLES
    ========================================================================== */
@@ -449,7 +450,7 @@ tr, td, th {
     content: "";
     display: table; }
   .page__footer footer {
-    max-width: 100%;
+    max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
     clear: both;
@@ -463,7 +464,7 @@ tr, td, th {
       clear: both;
       content: "";
       display: table; }
-    @media (min-width: 1280px) {
+    @media (min-width: 80em) {
       .page__footer footer {
         max-width: 1280px; } }
   .page__footer a {
