@@ -1,72 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://lokata.info.pl/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://lokata.info.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lokata.info.pl/" rel="alternate" type="text/html" /><updated>2016-12-18T17:29:23+01:00</updated><id>https://lokata.info.pl//</id><title type="html">Porównanie lokat</title><subtitle>Bieżąco aktualizowany ranking lokat i kont bankowych. Zestawiamy, analizujemy i porównujemy lokaty bankowe.</subtitle><author><name>Lokaty</name></author><entry><title type="html">Słownik lokat</title><link href="https://lokata.info.pl/slownik-lokat/" rel="alternate" type="text/html" title="Słownik lokat" /><published>2016-12-18T00:00:00+01:00</published><updated>2016-12-18T00:00:00+01:00</updated><id>https://lokata.info.pl/slownik-lokat</id><content type="html" xml:base="https://lokata.info.pl/slownik-lokat/">&lt;aside class=&quot;sidebar__right&quot;&gt;
-&lt;nav class=&quot;toc&quot;&gt;
-    &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; Na tej stronie&lt;/h4&gt;&lt;/header&gt;
-&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-automatyczna&quot; id=&quot;markdown-toc-lokata-automatyczna&quot;&gt;Lokata automatyczna&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-dwuwalutowa&quot; id=&quot;markdown-toc-lokata-dwuwalutowa&quot;&gt;Lokata dwuwalutowa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-dynamiczna&quot; id=&quot;markdown-toc-lokata-dynamiczna&quot;&gt;Lokata dynamiczna&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-overnight&quot; id=&quot;markdown-toc-lokata-overnight&quot;&gt;Lokata Overnight&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-progresywna&quot; id=&quot;markdown-toc-lokata-progresywna&quot;&gt;Lokata Progresywna&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-rentierska&quot; id=&quot;markdown-toc-lokata-rentierska&quot;&gt;Lokata Rentierska&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-strukturyzowana&quot; id=&quot;markdown-toc-lokata-strukturyzowana&quot;&gt;Lokata Strukturyzowana&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-terminowa&quot; id=&quot;markdown-toc-lokata-terminowa&quot;&gt;Lokata terminowa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-z-dopłatą&quot; id=&quot;markdown-toc-lokata-z-dopłatą&quot;&gt;Lokata z Dopłatą&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lokata-a-vista&quot; id=&quot;markdown-toc-lokata-a-vista&quot;&gt;Lokata a Vista&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#poliso-lokata&quot; id=&quot;markdown-toc-poliso-lokata&quot;&gt;Poliso Lokata&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/nav&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;Lokata bankowa to potoczne określenie środków pieniężnych wpłaconych na rachunek bankowy (depozytów). Depozyty mogą być wpłacone na określony czas (jest to wówczas lokata terminowa czy wkład terminowy), mogą być również płatne na każde żądanie wpłacającego (wkłady a vista) – w tym przypadku nie jest określony termin lokaty. Im więcej depozytów bank przyjmie, tym szerzej będzie mógł rozwinąć działalność kredytową i zarabiać w ten sposób na pośrednictwie finansowym między tymi, którzy mają wolne środki finansowe, a tymi, którzy tych środków potrzebują.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-automatyczna&quot;&gt;Lokata automatyczna&lt;/h2&gt;
-
-&lt;p&gt;Lokata automatyczna jest sposobem na ustanawianie lokaty z dostępnych na koncie środków po spełnieniu określonych warunków, na przykład po przekroczeniu ustalonego w umowie z bankiem stanu konta, ze środków powyżej progu ustanawiana jest automatycznie lokata korzystniej oprocentowana w stosunku do oprocentowania konta. Dzięki temu część środków przynosi dochód, a część pozostaje do dyspozycji oszczędzającego bez podejmowania przez niego żadnych szczególnych kroków ani decyzji.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Niektóre banki oferują swoim klientom mechanizmy bilansujące, automatycznie przelewające pieniądze między kontami o różnym oprocentowaniu (np.: pomiędzy ROR a kontem oszczędnościowym, lokata a’vista) w taki sposób, że na naszym koncie ROR dysponujemy zawsze minimalnymi środkami potrzebnymi na codzienne wydatki, a reszta naszych pieniędzy procentuje na wyżej oprocentowanych rachunkach.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-dwuwalutowa&quot;&gt;Lokata dwuwalutowa&lt;/h2&gt;
-
-&lt;p&gt;Lokata dwuwalutowa jest odmianą lokaty terminowej dedykowaną głównie firmom i przedsiębiorstwom dysponującym okresowo wolnymi środkami finansowymi opcją zakładaną na kurs wymiany pomiędzy wybraną parą walut. Za opcję tę bank wypłaca premię, która podwyższa ostateczny zysk z lokaty. Zysk ten jest uzależniony od wahań kursowych oraz określonego przez deponenta kursu zrealizowania opcji.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-dynamiczna&quot;&gt;Lokata dynamiczna&lt;/h2&gt;
-
-&lt;p&gt;Warunki korzystania z lokaty dynamicznej pozwalają na uzyskanie przychodu z odsetek od oszczędności w przypadku, gdy zostanie ona zlikwidowana przed upłynięciem zadeklarowanego terminu. Odsetki naliczane są wtedy zwykle w sposób proporcjonalny do czasu na jaki pieniądze zostały powierzone bankowi. Jest to korzystna forma oszczędzania w przypadku gdy nie mamy pewności czy pieniądze zdeponowane na lokacie, nie będą nam potrzebne przed terminem rozwiązania lokaty. Jednakże swoboda dysponowania środkami opłacona jest zwykle mniej atrakcyjnym oprocentowaniem niż ma to miejsce w przypadku lokaty terminowej. Jest to więc rozwiązanie kompromisowe.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-overnight&quot;&gt;Lokata Overnight&lt;/h2&gt;
-
-&lt;p&gt;Lokata OverNight (nieraz określana skrótem O/N) jest najkrótszym typem lokaty, gdyż środki zdeponowane zostają na jedną noc po czym zwracane deponentowi rano na jego rachunek oszczędnościowo-rozliczeniowy. Jest to wygodne dla osób, które w nocy śpią i nie potrzebują dysponować własnymi pieniędzmi (a takich jest zapewne większość). Dodatkową zaletą jest codzienna kapitalizacja odsetek, co daje większy efekt z tzw. procentu składanego (jeżeli lokata jest odnawiana co noc) oraz ustawia wyżej pułap oszczędności wolny od podatku belki (przy dzisiejszych realiach to kwota ok 15 000 PLN).&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-progresywna&quot;&gt;Lokata Progresywna&lt;/h2&gt;
-
-&lt;p&gt;Lokata Progresywna jest to rodzaj lokaty, której oprocentowanie zwiększa się w trakcie jej trwania. System ten zachęca do jak najdłuższego trzymania pieniędzy na takiej lokacie, bo motywacja rośnie wraz z upływem czasu. Progresywność nie implikuje jednakże stałego i proporcjonalnego wzrostu oprocentowania w kolejnych miesiącach. Zasady wzrostu określają warunki umowy między bankiem a deponentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-rentierska&quot;&gt;Lokata Rentierska&lt;/h2&gt;
-
-&lt;p&gt;Szczególnym rodzajem lokat oszczędnościowych jest lokata rentierska, której charakterystyczną cechą jest to, iż naliczane od niej odsetki nie podlegają kapitalizacji lecz są do dyspozycji właściciela rachunku: przelewane na wskazane konto, lub wypłacane. Ta forma oszczędzania dedykowana jest osobom, które przeznaczają na lokatę wysokie środki finansowe, a naliczone odsetki mogą być zadysponowane np.: na bieżące wydatki. Zazwyczaj lokaty rentierskie są wkładami długoterminowymi (co najmniej 12 miesięcy), a warunki lokaty bank i osoba zainteresowana ustalają w umowie. Lokata rentierska jest wygodnym i bezpiecznym (niskie ryzyko finansowe) sposobem pozyskiwania dodatkowego dochodu, ale trzeba pamiętać, że  aby wysokość odsetek wypłacanych co miesiąc stanowiła znaczącą pozycję w dochodach właściciela lokaty, kwota lokaty musi być odpowiednio wysoka. W wypadku klientów, którzy są w stanie przeznaczyć na lokatę kwoty rzędu dziesiątek tysięcy złotych, banki skłonne są podejmować indywidualne negocjacje co do warunków samej lokaty.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-strukturyzowana&quot;&gt;Lokata Strukturyzowana&lt;/h2&gt;
-
-&lt;p&gt;Jest specyficznym rodzajem inwestycji łączącym bezpieczeństwo zwrotu założonych pieniędzy z możliwością zysku powyżej standardowego oprocentowania lokat. Jak to możliwe? Pieniądze przeznaczone na tego rodzaju lokatę inwestowane są jednocześnie w bezpieczne instrumenty finansowe (obligacje) i w opcje. Zysk z opcji uzależniony jest od zmienności parametrów – na przykład cen akcji spółek. Rozdysponowanie środków finansowych na lokacie strukturyzowanej jest niesymetryczne. Aby zagwarantować zwrot z lokaty przynajmniej tych pieniędzy, które zostały na nią poświęcone, 90% pieniędzy inwestowane jest w instrument bezpieczny, a tylko 10% na wysoko zmienne ‘opcje’. Dzięki temu nawet w przypadku braku szczęścia co do tych 10%, otrzymujemy zysk z 90% kompensujący ewentualną stratę. A to jest najbardziej pesymistyczny scenariusz. W bardziej sprzyjających warunkach zainwestowane 10% może wywindować ostateczny zysk z lokaty strukturyzowanej wysoko ponad przychód wynikający z bardzo wysoko oprocentowanych lokat standardowych. Jest w tym nieco hazardu ale z ryzykiem straty zniwelowanym praktycznie do zera. Podane proporcje są przykładowe i mogą się różnić w poszczególnych produktach funduszy inwestycyjnych.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-terminowa&quot;&gt;Lokata terminowa&lt;/h2&gt;
-
-&lt;p&gt;Lokata terminowa to okresowa transakcja finansowa, której podstawą jest umowa pomiędzy bankiem, a deponentem (osobą powierzającą swoje oszczędności w depozyt bankowi) na podstawie której bank po określonym czasie wypłaca zdeponowane środki powiększone o zdefiniowaną w umowie wartość. Lokaty są podstawowym instrumentem pozyskiwania środków finansowych przez banki. Dla osób posiadających oszczędności są zaś najprostszą i najbezpieczniejszą formą inwestowania.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-z-dopłatą&quot;&gt;Lokata z Dopłatą&lt;/h2&gt;
-
-&lt;p&gt;Rodzaj lokaty (wprowadzony przez Bank Spółdzielczy) w której kwota od której naliczane są odsetki, może być powiększana w trakcie trwania lokaty dodatkowymi wpłatami przez deponenta. Wysokość i zasady “dopłat” określone są umową z bankiem.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-a-vista&quot;&gt;Lokata a Vista&lt;/h2&gt;
-
-&lt;p&gt;Występują najczęściej pod postacią kont oszczędnościowych. Środków gromadzonych w tej formie oszczędzania zwykle nie dotyczą ograniczenia charakterystyczne dla lokat, takie jak na przykład: zamrożenie środków na kilka miesięcy, lub wysokość wkładu minimalnego. Środki na rachunkach oszczędnościowych dostępne są od ręki, a odsetki naliczane są od faktycznie znajdujących się na koncie pieniędzy w danym momencie (choć kapitalizacja, czyli doliczenie ich do rachunku odbywa się zwykle raz na miesiąc. Nie znaczy to, że kont oszczędnościowych nie dotyczą żadne ograniczenia. Przeciwnie – dotyczą – lecz zwykle ich restrykcyjność jest mniejsza w porównaniu do tradycyjnych lokat terminowych. Wraz z większą swobodą dysponowania środkami, banki oferują nieco niższe oprocentowanie dla tego rodzaju oszczędności, lecz i tak bliższe jest ono lokatom niż tradycyjnym RORom.&lt;/p&gt;
-
-&lt;h2 id=&quot;poliso-lokata&quot;&gt;Poliso Lokata&lt;/h2&gt;
-
-&lt;p&gt;Podatek od dochodów kapitałowych, powszechnie znany jako podatek Belki, stanowi gorzki szczegół w słodyczy oszczędzania także wśród amatorów lokat. Od czasu wprowadzenia go, oszczędzający i banki nie ustawały w próbach poszukiwania sposobu na zniwelowanie jego działania. Dość wyrafinowanym sposobem na „ominięcie Belki” jest poliso-lokata. Niektóre banki zaoferowały hybrydę polisy na życie z lokatą oszczędnościową. W tym wypadku bank niejako pośredniczy w sprzedaży defacto polisy ubezpieczeniowej na życie w firmie ubezpieczeniowej, po której upłynięciu zwracana jest kwota ubezpieczenia wraz z dodatkowymi odsetkami. Dziś poliso-lokaty nie są już tak popularne, choć ciągle można je znaleźć w ofertach banków. Umowa lokaty, która zawierana jest nie z bankiem, a z towarzystwem ubezpieczeniowym. Jest to połączenie tradycyjnej lokaty oraz ubezpieczenia na życie, które w zamian za regularne wpłacanie składki ubezpieczeniowej zakłada wypłatę gwarantowanego odszkodowania w razie śmierci ubezpieczonego lub wypłatę nagromadzonych środków wraz z wypracowanym zyskiem po zakończeniu umowy. Suma ubezpieczenia na jaką może liczyć klient nie jest z góry ustalana, a zależy tylko od wielkości wypracowanego zysku.&lt;/p&gt;</content><author><name>Lokaty</name></author><category term="Lokaty" /><summary type="html">Na tej stronie</summary></entry><entry><title type="html">Zestawienie lokat – maj 2014</title><link href="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/" rel="alternate" type="text/html" title="Zestawienie lokat &amp;#8211; maj 2014" /><published>2014-05-02T10:14:53+02:00</published><updated>2014-05-02T10:14:53+02:00</updated><id>https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014</id><content type="html" xml:base="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/">&lt;p class=&quot;lead&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://lokata.info.pl/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://lokata.info.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lokata.info.pl/" rel="alternate" type="text/html" /><updated>2016-12-18T17:46:47+01:00</updated><id>https://lokata.info.pl//</id><title type="html">Porównanie lokat</title><subtitle>Bieżąco aktualizowany ranking lokat i kont bankowych. Zestawiamy, analizujemy i porównujemy lokaty bankowe.</subtitle><author><name>Lokaty</name></author><entry><title type="html">Zestawienie lokat – maj 2014</title><link href="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/" rel="alternate" type="text/html" title="Zestawienie lokat &amp;#8211; maj 2014" /><published>2014-05-02T10:14:53+02:00</published><updated>2014-05-02T10:14:53+02:00</updated><id>https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014</id><content type="html" xml:base="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/">&lt;p class=&quot;lead&quot;&gt;
   Zaczął się maj, więc pora na tradycyjny, comiesięczny zestaw dla oszczędzających. &lt;strong&gt;Zestawienie lokat&lt;/strong&gt; pokaże Wam, gdzie oszczędzicie najwięcej pieniędzy. Ranking zawiera informacje na temat zmian oprocentowania lokat bankowych jakie zaszły od ostatniego porównania. Zazwyczaj banki wymagają posiadania konta osobistego czy po prostu dana oferta dostępna jest wyłącznie dla nowych klientów. Czasami dotyczy ona nowych środków przyniesionych do banku. Jeśli bank oferuje kilka dobrych lokat dla danego terminu, w tabelce umieściliśmy tylko jedną, tę najlepszą. W zestawieniu nie zostały uwzględnione produkty, które wymagają od klienta dodatkowej aktywności.
 &lt;/p&gt;
 
@@ -7495,4 +7427,858 @@
       3,25%
     &lt;/td&gt;
   &lt;/tr&gt;
-&lt;/table&gt;</content><author><name>Lokaty</name></author><category term="Porównanie lokat" /><summary type="html">Po wakacjach RPP utrzymała stopy procentowe na niezmienionym poziomie. Zdaniem ekspertów czeka nas teraz kilka miesięcy stabilizacji, po których będzie można spodziewać się podwyżek stóp. W porównaniu do sierpniowej edycji w rankingu lokat Wrzesień 2013 zaszło nieco zmian. Część lokat nie zmieniła oprocentowania, w kilku przypadkach oprocentowanie się zmniejszyło. Oprocentowanie lokat terminowych nie jest, i chyba jeszcze przez jakiś czas nie będzie, tak wysokie jak jeszcze kilka miesięcy temu. Pocieszające jest to, że oprocentowanie lokat nie spada już w takim tempie jak jeszcze kilka miesięcy temu.</summary></entry></feed>
+&lt;/table&gt;</content><author><name>Lokaty</name></author><category term="Porównanie lokat" /><summary type="html">Po wakacjach RPP utrzymała stopy procentowe na niezmienionym poziomie. Zdaniem ekspertów czeka nas teraz kilka miesięcy stabilizacji, po których będzie można spodziewać się podwyżek stóp. W porównaniu do sierpniowej edycji w rankingu lokat Wrzesień 2013 zaszło nieco zmian. Część lokat nie zmieniła oprocentowania, w kilku przypadkach oprocentowanie się zmniejszyło. Oprocentowanie lokat terminowych nie jest, i chyba jeszcze przez jakiś czas nie będzie, tak wysokie jak jeszcze kilka miesięcy temu. Pocieszające jest to, że oprocentowanie lokat nie spada już w takim tempie jak jeszcze kilka miesięcy temu.</summary></entry><entry><title type="html">Ranking lokat terminowych – sierpień 2013</title><link href="https://lokata.info.pl/2013/08/ranking-lokat-terminowych-sierpien-2013/" rel="alternate" type="text/html" title="Ranking lokat terminowych – sierpień 2013" /><published>2013-08-12T13:57:10+02:00</published><updated>2013-08-12T13:57:10+02:00</updated><id>https://lokata.info.pl/2013/08/ranking-lokat-terminowych-sierpien-2013</id><content type="html" xml:base="https://lokata.info.pl/2013/08/ranking-lokat-terminowych-sierpien-2013/">&lt;p class=&quot;lead&quot;&gt;
+  W sierpniowym rankingu zastały porównane lokaty o oprocentowaniu stałym udzielane przez banki komercyjne. Przyjrzeliśmy się lokatom zakładanym na 3, 6 i 12 miesięcy. O pozycji danego produktu w zestawieniu decydowało oczywiście jego oprocentowanie nominalne. Najbardziej korzystnie oprocentowane lokaty terminowe znaleźć można w bankach mniejszych (np. Idea Bank czy FM Bank), czy takich, które specjalizują się w obsłudze klientów bankowości prywatnej i osobistej. To im zależy na przyciągnięciu klientów i dlatego będą skłonne dać na lokatach nieco więcej zarobić.
+&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Mimo tego, że Rada Polityki Pieniężnej zakończyła już, trwającą kilka miesięcy, serię obniżek, niektóre banki zdecydowały się na zmniejszenie oprocentowania oferowanych przez siebie lokat terminowych. Do grona tego należy większość banków zajmujących miejsce w czołówkach zestawień. Jeśli lipcowa obniżka stóp procentowych faktycznie okaże się ostatnią z cyklu, to dalsze spadki oprocentowania nie powinny mieć miejsca. W całym cyklu stopy zostały obniżone aż o 2,25%, co jeszcze rok temu wydawało się praktycznie niemożliwe.&lt;/p&gt;
+
+&lt;p&gt;Trzeba pamiętać, że na realny zysk z dziś założonych lokat, oprócz oprocentowania i podatku od zysków kapitałowych, wpływać będzie również wartość wskaźnika inflacji obowiązująca w dniu zakończenia lokaty. Niedawno GUS poinformował, że inflacja CPI spadła do najniższego poziomu w historii: 0,2 proc. w skali roku. Oczywiście, nie wiemy, ile wyniesie ona w kolejnym roku, ale nawet jeśli nieco podskoczy, to i tak będziemy cieszyli się realnymi zyskami z lokat i kont oszczędnościowych. Analitycy jednak nie prognozują gwałtownego wzrostu inflacji. Pamiętajmy też, że przy niskim kapitale, bicie się o każdą część procenta lokaty nie ma zbytnio sensu. Czasem włożony wysiłek, może się okazać wart więcej niż różnica między odsetkami najlepszej lokaty, a tej z drugiego czy trzeciego miejsca. Jeżeli nie dysponujemy odpowiednim kapitałem to lepszym rozwiązaniem może okazać się skorzystanie z różnego rodzaju promocji bankowych będzie dla nas dużo bardziej korzystne. Jednorazowe lokaty dla nowych klientów nadal są wysoko oprocentowane. W praktyce, jeśli już skorzystaliśmy z promocyjnej podwyżki oprocentowania, to ciężko będzie znaleźć depozyt, który pozwoli zarobić.&lt;/p&gt;
+
+&lt;p&gt;Stopy procentowe na historycznie niskim poziomie nie zachęcają do zakładania lokat, tym bardziej długoterminowych. Wciąż jednak jest to bezpieczna i prosta forma oszczędzania. Lokaty bankowe podlegające polskiemu nadzorowi finansowemu – Komisji Nadzoru Finansowego (KNF) są w 100% gwarantowane przez BFG (Bankowy Fundusz Gwarancyjny) do kwoty 100 tys. euro. Jaki zysk osiągniemy z naszej inwestycji zależy tylko od nas samych, czy zezwolimy żeby nasze depozyty terminowe odnowiły się bez naszego udziału, na słabych warunkach, czy poświęcimy nieco czasu by przejrzeć poniższy ranking lokat i wybrać najlepiej oprocentowaną ofertę.&lt;/p&gt;
+
+&lt;h2 id=&quot;najlepsze-lokaty-na-1-miesiąc&quot;&gt;Najlepsze lokaty na 1 miesiąc&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-condensed table-bordered&quot;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+      bank
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      lokata
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      oprocentowanie
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      rodzaj oprocentowanie
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Getin On Line
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata na Start
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      5,25%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Idea Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata na Dobry Początek
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      5,25%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      BNP Paribas
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Prosta Lokata
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,50%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      FM Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Spinająca
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,00%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Meritum Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata internetowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,00%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      SK Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Interlokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,90%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      zmienne
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Nordea Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      eBenefit
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,45%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Deutsche Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Wibitna
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,42%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Eurobank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata terminowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,40%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Invest Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,30%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Volkswagen Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Plus
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,30%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;najlepsze-lokaty-na-3-miesiące&quot;&gt;Najlepsze lokaty na 3 miesiące&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-condensed table-bordered&quot;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+      bank
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      lokata
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      oprocentowanie
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      rodzaj oprocentowanie
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Getin On Line
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata na Start
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      5,25%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Idea Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata na Dobry Początek
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      5,25%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Meritum Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Pierwsza lokata
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4,00%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      SK Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Interlokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,70%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      zmienne
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      FM Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata PRO
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,40%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Getin Noble Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Miesiąca
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,15%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Toyota Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Depozyt Plus
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,95%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Invest Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,85%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      BGŻ Optima
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,80%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      inteligo
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      igo lokata
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2,75%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;najlepsze-lokaty-na-6-miesięcy&quot;&gt;Najlepsze lokaty na 6 miesięcy&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-condensed table-bordered&quot;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+      bank
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      lokata
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      oprocentowanie
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      rodzaj oprocentowania
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      SK Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      eLokata24
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4,50%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      zmienne
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Alior Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata standardowa na 180 dni
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,60%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      FM Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata PRO
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,60%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Getin Noble Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Miesiąca
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,35%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Getin On Line
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Be Green
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,30%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Santander Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Direct+ Internet
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,30%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Meritum Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata internetowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,20%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Idea Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata stabilna
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,10%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Invest Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,10%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Toyota Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Kapitalna Lokata
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,10%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      progresywne
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;najlepsze-lokaty-na-12-miesięcy&quot;&gt;Najlepsze lokaty na 12 miesięcy&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-condensed table-bordered&quot;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+      bank
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      lokata
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      oprocentowanie
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      rodzaj oprocentowania
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      SK Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Interlokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4,50%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      zmienne
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      FM Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata PRO
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,70%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Getin On Line
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Prezesa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,63%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      zmienne
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Idea Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Stabilna
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,40%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Meritum Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata internetowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,30%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Getin Noble Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata na Plus
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,25%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      BGŻ Optima
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,20%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Credit Agricole
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata terminowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,20%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Invest Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata standardowa
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,20%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Santander Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Lokata Direct+ Internet
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,10%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Toyota Bank
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Depozyt Plus
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3,10%
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      stałe
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Lokaty</name></author><category term="Porównanie lokat" /><summary type="html">W sierpniowym rankingu zastały porównane lokaty o oprocentowaniu stałym udzielane przez banki komercyjne. Przyjrzeliśmy się lokatom zakładanym na 3, 6 i 12 miesięcy. O pozycji danego produktu w zestawieniu decydowało oczywiście jego oprocentowanie nominalne. Najbardziej korzystnie oprocentowane lokaty terminowe znaleźć można w bankach mniejszych (np. Idea Bank czy FM Bank), czy takich, które specjalizują się w obsłudze klientów bankowości prywatnej i osobistej. To im zależy na przyciągnięciu klientów i dlatego będą skłonne dać na lokatach nieco więcej zarobić.</summary></entry></feed>
