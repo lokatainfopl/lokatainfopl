@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank/</loc>
+<lastmod>2016-12-21T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/</loc>
 <lastmod>2014-05-02T10:14:53+02:00</lastmod>
 </url>
@@ -629,10 +633,6 @@
 <lastmod>2008-07-28T09:59:10+02:00</lastmod>
 </url>
 <url>
-<loc>https://lokata.info.pl/2008/07/dominet-bank-podnosi-oprocentowanie-lokat-dominanta-forte-2/</loc>
-<lastmod>2008-07-23T09:47:33+02:00</lastmod>
-</url>
-<url>
 <loc>https://lokata.info.pl/2008/07/8-na-lokacie-w-banku-millennium/</loc>
 <lastmod>2008-07-23T09:44:12+02:00</lastmod>
 </url>
@@ -973,10 +973,6 @@
 <lastmod>2008-04-02T13:16:05+02:00</lastmod>
 </url>
 <url>
-<loc>https://lokata.info.pl/2008/03/dominet-bank-podnosi-oprocentowanie-lokat-dominanta-forte/</loc>
-<lastmod>2008-03-28T13:02:55+01:00</lastmod>
-</url>
-<url>
 <loc>https://lokata.info.pl/2008/03/nowa-lokata-superprocent-65-w-skali-roku/</loc>
 <lastmod>2008-03-28T11:21:12+01:00</lastmod>
 </url>
@@ -1127,10 +1123,6 @@
 <url>
 <loc>https://lokata.info.pl/2007/11/wyzsze-oprocentowanie-lokat-dla-klientow-instytucjonalnych/</loc>
 <lastmod>2007-11-30T08:42:30+01:00</lastmod>
-</url>
-<url>
-<loc>https://lokata.info.pl/2007/11/dominanta-forte-rekordzistka-wsrod-lokat/</loc>
-<lastmod>2007-11-29T13:00:08+01:00</lastmod>
 </url>
 <url>
 <loc>https://lokata.info.pl/2007/11/ing-bank-rozpoczal-subskrypcje-inwestycyjnej-lokaty-ubezpieczeniowej/</loc>
@@ -1293,10 +1285,6 @@
 <lastmod>2007-05-30T08:33:17+02:00</lastmod>
 </url>
 <url>
-<loc>https://lokata.info.pl/2007/05/dominet-bank-przedluzyl-promocje-dominanty-forte/</loc>
-<lastmod>2007-05-08T12:56:39+02:00</lastmod>
-</url>
-<url>
 <loc>https://lokata.info.pl/2007/05/bph-lokata-top-dywidenda-trafila-w-oczekiwania-rynku/</loc>
 <lastmod>2007-05-02T08:02:56+02:00</lastmod>
 </url>
@@ -1327,10 +1315,6 @@
 <url>
 <loc>https://lokata.info.pl/2007/02/lokata-inwestycyjna-podboj-azji-w-bre-banku/</loc>
 <lastmod>2007-02-14T12:25:00+01:00</lastmod>
-</url>
-<url>
-<loc>https://lokata.info.pl/2007/02/ruszyla-promocja-lokaty-dominanta-forte-w-dominet-banku/</loc>
-<lastmod>2007-02-13T12:55:36+01:00</lastmod>
 </url>
 <url>
 <loc>https://lokata.info.pl/2007/02/lokata-trzy-zyski-bank-bph/</loc>
@@ -2336,9 +2320,6 @@
 </url>
 <url>
 <loc>https://lokata.info.pl/page99/</loc>
-</url>
-<url>
-<loc>https://lokata.info.pl/page100/</loc>
 </url>
 <url>
 <loc>https://lokata.info.pl/pets/lhasa-apso/</loc>
