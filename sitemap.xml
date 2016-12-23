@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://lokata.info.pl/lokaty/lokata-edepozyt-nordea-bank/</loc>
+<lastmod>2016-12-22T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank/</loc>
 <lastmod>2016-12-21T00:00:00+00:00</lastmod>
 </url>
@@ -1669,10 +1673,6 @@
 <lastmod>2004-12-06T12:23:33+00:00</lastmod>
 </url>
 <url>
-<loc>https://lokata.info.pl/2004/12/dluzsza-promocja-lokat-w-nordea-bank-polska/</loc>
-<lastmod>2004-12-03T09:05:05+00:00</lastmod>
-</url>
-<url>
 <loc>https://lokata.info.pl/2004/12/korzystniejsze-lokaty-w-banku-bph/</loc>
 <lastmod>2004-12-01T06:51:59+00:00</lastmod>
 </url>
@@ -1751,10 +1751,6 @@
 <url>
 <loc>https://lokata.info.pl/2004/09/lokata-inwestycyjna-private-banking-bre-banku-sa/</loc>
 <lastmod>2004-09-12T11:07:41+01:00</lastmod>
-</url>
-<url>
-<loc>https://lokata.info.pl/2004/09/6-na-6-miesiecy-w-nordea-bank-polska/</loc>
-<lastmod>2004-09-02T09:00:12+01:00</lastmod>
 </url>
 <url>
 <loc>https://lokata.info.pl/2004/08/deutsche-bank-przedluza-czas-trwania-promocji-lokat-zlotowych-o-stalym-oprocentowaniu/</loc>
@@ -1939,14 +1935,6 @@
 <url>
 <loc>https://lokata.info.pl/2003/11/rachunki-wewnetrzne-przelewy-i-lokaty-walutowe-w-solo/</loc>
 <lastmod>2003-11-24T08:57:23+00:00</lastmod>
-</url>
-<url>
-<loc>https://lokata.info.pl/2003/11/nowa-lokata-e-depozyt/</loc>
-<lastmod>2003-11-24T08:56:34+00:00</lastmod>
-</url>
-<url>
-<loc>https://lokata.info.pl/2003/11/edepozyt-przedluzenie-promocji/</loc>
-<lastmod>2003-11-24T08:54:40+00:00</lastmod>
 </url>
 <url>
 <loc>https://lokata.info.pl/2003/11/multibank-wprowadzil-nowe-korzystniejsze-oprocentowania-lokat-dla-klientow-klubu-aquarius/</loc>
