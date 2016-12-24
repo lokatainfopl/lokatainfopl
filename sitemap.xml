@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://lokata.info.pl/lokaty/lokata-db-super-trio-deutsche-bank/</loc>
+<lastmod>2016-12-24T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://lokata.info.pl/lokaty/lokata-edepozyt-nordea-bank/</loc>
 <lastmod>2016-12-22T00:00:00+00:00</lastmod>
 </url>
@@ -353,10 +357,6 @@
 <lastmod>2009-06-08T17:18:21+01:00</lastmod>
 </url>
 <url>
-<loc>https://lokata.info.pl/2009/06/potrojne-mozliwosci-zysku-w-ramach-lokaty-db-super-trio/</loc>
-<lastmod>2009-06-08T17:11:31+01:00</lastmod>
-</url>
-<url>
 <loc>https://lokata.info.pl/2009/06/nowe-produkty-strukturyzowane-w-ing/</loc>
 <lastmod>2009-06-01T16:53:55+01:00</lastmod>
 </url>
@@ -433,10 +433,6 @@
 <lastmod>2009-04-10T12:07:58+01:00</lastmod>
 </url>
 <url>
-<loc>https://lokata.info.pl/2009/04/potrojne-mozliwosci-zysku-w-ramach-lokaty-db-super-trio-deutsche-bank-pbc-sa/</loc>
-<lastmod>2009-04-07T12:05:58+01:00</lastmod>
-</url>
-<url>
 <loc>https://lokata.info.pl/2009/04/pewna-i-bezpieczna-lokata-w-banku-bgz/</loc>
 <lastmod>2009-04-05T12:03:41+01:00</lastmod>
 </url>
@@ -459,10 +455,6 @@
 <url>
 <loc>https://lokata.info.pl/2009/03/lokata-premia-w-banku-millennium-do-8-na-3-miesiace/</loc>
 <lastmod>2009-03-23T12:13:05+01:00</lastmod>
-</url>
-<url>
-<loc>https://lokata.info.pl/2009/03/potrojne-mozliwosci-z-lokata-db-trio-deutsche-bank-pbc-sa/</loc>
-<lastmod>2009-03-20T10:51:54+01:00</lastmod>
 </url>
 <url>
 <loc>https://lokata.info.pl/2009/03/625-procentowa-smietanka-z-lokaty/</loc>
@@ -499,10 +491,6 @@
 <url>
 <loc>https://lokata.info.pl/2009/02/zmiana-oprocentowania-lokat-w-aig-banku-2/</loc>
 <lastmod>2009-02-16T11:16:12+00:00</lastmod>
-</url>
-<url>
-<loc>https://lokata.info.pl/2009/02/lokata-db-trio-deutsche-bank-pbc-sa/</loc>
-<lastmod>2009-02-15T10:26:07+00:00</lastmod>
 </url>
 <url>
 <loc>https://lokata.info.pl/2009/02/lokata-strukturyzowana-zyskaj-z-frankiem/</loc>
@@ -2284,8 +2272,5 @@
 </url>
 <url>
 <loc>https://lokata.info.pl/page98/</loc>
-</url>
-<url>
-<loc>https://lokata.info.pl/page99/</loc>
 </url>
 </urlset>
