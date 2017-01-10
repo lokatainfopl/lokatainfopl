@@ -1,4 +1,202 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://lokata.info.pl/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://lokata.info.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lokata.info.pl/" rel="alternate" type="text/html" /><updated>2016-12-24T08:23:07+00:00</updated><id>https://lokata.info.pl//</id><title type="html">Porównanie lokat</title><subtitle>Bieżąco aktualizowany ranking lokat i kont bankowych. Zestawiamy, analizujemy i porównujemy lokaty bankowe.</subtitle><author><name>Lokaty</name></author><entry><title type="html">Lokaty db Trio i db Super Trio w Deutsche Bank PBC S.A.</title><link href="https://lokata.info.pl/lokaty/lokata-db-super-trio-deutsche-bank/" rel="alternate" type="text/html" title="Lokaty db Trio i db Super Trio w Deutsche Bank PBC S.A." /><published>2016-12-24T00:00:00+00:00</published><updated>2016-12-24T00:00:00+00:00</updated><id>https://lokata.info.pl/lokaty/lokata-db-super-trio-deutsche-bank</id><content type="html" xml:base="https://lokata.info.pl/lokaty/lokata-db-super-trio-deutsche-bank/">&lt;p&gt;Na początku 2009 r. Deutsche Bank PBC wprowadza do oferty nowy, innowacyjny produkt depozytowy – lokatę db Trio, stanowiącą połączenie trzech lokat terminowych o okresach 1, 6 oraz 12 miesięcy w ramach jednego produktu. Lokata db Trio to oferta 3 nieodnawialnych lokat łącznie, o stałym oprocentowaniu.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://lokata.info.pl/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://lokata.info.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lokata.info.pl/" rel="alternate" type="text/html" /><updated>2017-01-10T18:21:46+00:00</updated><id>https://lokata.info.pl//</id><title type="html">Porównanie lokat</title><subtitle>Bieżąco aktualizowany ranking lokat i kont bankowych. Zestawiamy, analizujemy i porównujemy lokaty bankowe.</subtitle><author><name>Lokaty</name></author><entry><title type="html">Lokata Direct+ w Banku Santander</title><link href="https://lokata.info.pl/lokaty/lokata-direct-plus-santander/" rel="alternate" type="text/html" title="Lokata Direct+ w Banku Santander" /><published>2017-01-05T00:00:00+00:00</published><updated>2017-01-05T00:00:00+00:00</updated><id>https://lokata.info.pl/lokaty/lokata-direct-plus-santander</id><content type="html" xml:base="https://lokata.info.pl/lokaty/lokata-direct-plus-santander/">&lt;aside class=&quot;sidebar__right&quot;&gt;
+&lt;nav class=&quot;toc&quot;&gt;
+    &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; Na tej stronie&lt;/h4&gt;&lt;/header&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#zmiany-oprocentowania-lokaty-direct&quot; id=&quot;markdown-toc-zmiany-oprocentowania-lokaty-direct&quot;&gt;Zmiany oprocentowania lokaty Direct+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lokata-direct-w-aig-banku&quot; id=&quot;markdown-toc-lokata-direct-w-aig-banku&quot;&gt;Lokata Direct+ w AIG Banku&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/nav&gt;
+&lt;/aside&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th colspan=&quot;5&quot;&gt;Aktualna wysokość oprocentowania w skali roku z dn. 12.12.2016:&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Okres lokaty&lt;/th&gt;
+            &lt;th&gt;5000.00- 9999.99 PLN&lt;/th&gt;
+            &lt;th&gt;10000.00- 19999.99 PLN&lt;/th&gt;
+            &lt;th&gt;20000.00- 59999.99 PLN&lt;/th&gt;
+            &lt;th&gt;60000.00 PLN i więcej&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td scope=&quot;col&quot;&gt;1 mies.&lt;/td&gt;
+            &lt;td&gt;-&lt;/td&gt;
+            &lt;td&gt;-&lt;/td&gt;
+            &lt;td&gt;0.25%&lt;/td&gt;
+            &lt;td&gt;0.35%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2 mies.&lt;/td&gt;
+            &lt;td&gt;0.35%&lt;/td&gt;
+            &lt;td&gt;0.40%&lt;/td&gt;
+            &lt;td&gt;0.40%&lt;/td&gt;
+            &lt;td&gt;0.45%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;3 mies.&lt;/td&gt;
+            &lt;td&gt;0.60%&lt;/td&gt;
+            &lt;td&gt;0.65%&lt;/td&gt;
+            &lt;td&gt;0.65%&lt;/td&gt;
+            &lt;td&gt;0.70%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;4 mies.&lt;/td&gt;
+            &lt;td&gt;0.65%&lt;/td&gt;
+            &lt;td&gt;0.70%&lt;/td&gt;
+            &lt;td&gt;0.70%&lt;/td&gt;
+            &lt;td&gt;0.75%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;5 mies.&lt;/td&gt;
+            &lt;td&gt;0.85%&lt;/td&gt;
+            &lt;td&gt;0.90%&lt;/td&gt;
+            &lt;td&gt;0.90%&lt;/td&gt;
+            &lt;td&gt;0.95%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;6 mies.&lt;/td&gt;
+            &lt;td&gt;1.25%&lt;/td&gt;
+            &lt;td&gt;1.30%&lt;/td&gt;
+            &lt;td&gt;1.30%&lt;/td&gt;
+            &lt;td&gt;1.30%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;7 mies.&lt;/td&gt;
+            &lt;td&gt;1.35%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;8 mies.&lt;/td&gt;
+            &lt;td&gt;1.35%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;9 mies.&lt;/td&gt;
+            &lt;td&gt;1.35%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;10 mies.&lt;/td&gt;
+            &lt;td&gt;1.35%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;11 mies.&lt;/td&gt;
+            &lt;td&gt;1.35%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+            &lt;td&gt;1.40%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;12 mies.&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;15 mies.&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+            &lt;td&gt;1.60%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;18 mies.&lt;/td&gt;
+            &lt;td&gt;1.75%&lt;/td&gt;
+            &lt;td&gt;1.75%&lt;/td&gt;
+            &lt;td&gt;1.75%&lt;/td&gt;
+            &lt;td&gt;1.75%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;24 mies.&lt;/td&gt;
+            &lt;td&gt;1.90%&lt;/td&gt;
+            &lt;td&gt;1.90%&lt;/td&gt;
+            &lt;td&gt;1.90%&lt;/td&gt;
+            &lt;td&gt;1.90%&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;36 mies.&lt;/td&gt;
+            &lt;td&gt;2.50%&lt;/td&gt;
+            &lt;td&gt;2.50%&lt;/td&gt;
+            &lt;td&gt;2.50%&lt;/td&gt;
+            &lt;td&gt;2.50%&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;zmiany-oprocentowania-lokaty-direct&quot;&gt;Zmiany oprocentowania lokaty Direct+&lt;/h2&gt;
+
+&lt;h2 id=&quot;lokata-direct-w-aig-banku&quot;&gt;Lokata Direct+ w AIG Banku&lt;/h2&gt;
+
+&lt;p&gt;May 30, 2006&lt;/p&gt;
+
+&lt;p&gt;Od dnia 29 maja w AIG Bank Polska SA obowiązuje nowe oprocentowanie lokat terminowych Direct+. 
+Kwota od 10.000 do 19.999 zł – od 3,58% do 3,86%
+Kwota od 20.000 do 59.999 zł – od 3,76% do 3,88%
+Kwota od 60.000 zł – od 3,80% do 4,07%&lt;/p&gt;
+
+&lt;p&gt;August 30, 2006&lt;/p&gt;
+
+&lt;p&gt;Trwają Promocje na okrągło w AIG Bank Polska SA. W najbliższy czwartek 31 sierpnia promocyjne oprocentowanie lokat z grupy Direct+ może wynieść aż 4,25%. AIG Bank od lipca prowadzi cykl „Promocje na okrągło”. W wybrane dni tygodnia założenie lokaty premiowane jest podwyższonym oprocentowaniem lub nagrodą rzeczową. W czwartek 31 sierpnia podwyższone oprocentowanie lokat z grupy Direct+ wynieść może nawet 4,25%!
+Każdorazowo promocja jest inna, Klienci mogą spodziewać się podwyższonego oprocentowania lub nagród rzeczowych (portfel skórzany, skórzany wizytownik, elegancki zestaw piśmienniczy). Warunki obowiązującej w danym tygodniu promocji dostępne są na stronie internetowej banku, pod numerem infolinii 0801 601 801 oraz w oddziałach. Promocje obowiązywały od 3 lipca do 31 października 2006 r.&lt;/p&gt;
+
+&lt;p&gt;September 19, 2006&lt;/p&gt;
+
+&lt;p&gt;Lokata Direct+ w AIG Banku to jedna z najatrakcyjniejszych lokat na rynku – nawet 5,10% zysku w skali roku, bez dodatkowych opłat manipulacyjnych i bez konieczności zakładania ROR. 
+To jedyna taka oferta na rynku. Teraz w AIG Banku można zarobić aż 5,10% w skali roku, inwestując w lokatę Direct+. Podwyższone oprocentowanie gwarantuje wyjątkowo korzystne zyski. Dodatkowo, aby założyć lokatę nie trzeba ponosić żadnych dodatkowych kosztów – nie ma konieczności zakładania ROR, nie są również pobierane dodatkowe opłaty manipulacyjne. 
+AIG Bank wielokrotnie zdobywał uznanie niezależnych ekspertów. W 2006 roku został uhonorowany m.in. tytułem Najlepszy Bank Roku 2005 oraz statuetką Orła Rzeczpospolitej (2006 i 2004).
+AIG Bank Polska SA zdobył wiele nagród i wyróżnień,  w ostatnim czasie został uhonorowany m.in. następującymi nagrodami:
+Najlepszy Bank Roku 2005 w rankingu instytucji finansowych (Rzeczpospolita, 13 czerwca 2006 r.)
+Nagroda główna Miesięcznika Finansowego BANK dla najefektywniejszego banku w rankingu „50 największych banków w Polsce” (BANK, 23 maja 2006 r.)
+TOP REGIONAL BANK in NEW EUROPE 2006 –  nagroda przyznana przez firmę Finance Trainer International Ges.m.b.H,12 maja 2006 r.
+„Orzeł Rzeczpospolitej 2006” w kategorii Najlepsza Instytucja Finansowa Rzeczpospolitej 2005 roku (Rzeczpospolita, 26 kwietnia 2006r.)
+Firma Przyjazna Klientowi 2004 – nagroda Instytutu Zarządzania (23 czerwca 2005 r.)
+AIG Consumer Finance Group, właściciel AIG  Bank Polska SA, to spółka należąca w 100% do AIG. Od momentu powstania w 1995 r. aktywność spółek zależnych AIG w Polsce skupiona jest na rynku kredytów konsumpcyjnych. 
+Działalność AIG CFG obejmuje cały świat, ze szczególnym uwzględnieniem rynków wschodzących (m.in. Filipiny, Tajwan, Tajlandia, Argentyna). Produkty spółek zależnych AIG CFG obejmują m.in. depozyty oraz szeroki zakres kredytów konsumpcyjnych i samochodowych.
+W 1998 r. w Polsce AIG CFG przejęła kontrolę nad AIG Credit SA (dawnym CLA SA) oraz AIG Bank Polska SA (ówczesnym Bankiem Podlaskim SA). Od tego momentu udział spółek zależnych AIG CFG w polskim rynku  finansowych usług detalicznych systematycznie rośnie.&lt;/p&gt;
+
+&lt;p&gt;November 22, 2006&lt;/p&gt;
+
+&lt;p&gt;W AIG Banku wzrosło oprocentowanie dla lokaty zakładanej na 6 i 12 miesięcy przy kwocie od 60 tys. zł i wynosi obecnie odpowiednio: 4,30% i 4,45%. 
+AIG Bank oferuje wysokie oprocentowanie lokaty dla osób inwestujących większa kwotę – dla wkładu w wysokości 60.000 zł i więcej na okres 36 miesięcy oprocentowanie wynosi 5,10%, bez dodatkowych opłat manipulacyjnych i bez konieczności zakładania ROR.
+Np.: 6 miesięcy – do 4,30%
+12 miesięcy – do 4,45%
+36 miesięcy – do 5,10%
+Przykład:
+Poniższa tabela prezentuje przykładowe zyski – wysokość odsetek z lokaty w kwocie 60.000 zł (uwzględniając zaliczkę na podatek od odsetek od lokat).&lt;/p&gt;
+
+&lt;p&gt;6 m-cy 
+9 m-cy 
+12 m-cy 
+24 m-ce 
+36 m-cy 
+60 000,00 
+1 290,00 
+1 877,00 
+2 670,00 
+5 760,00 
+9 180,00&lt;/p&gt;
+
+&lt;p&gt;September 18, 2007&lt;/p&gt;
+
+&lt;p&gt;AIG Bank ponownie podnosi oprocentowanie lokat. Oprocentowanie lokaty Direct+ może sięgnąć nawet 6,06%. Maksymalne oprocentowanie lokaty Direct+ może sięgnąć nawet 6,06% (dla depozytów na 36 miesięcy). 
+Wyższe stawki obowiązują od poniedziałku 17 września 2007 r. To już piąta podwyżka oprocentowania w AIG Banku w tym roku.
+W nowej promocji AIG Banku zakładając lokatę na pół roku, niezależnie od przedziału kwotowego, otrzymamy oprocentowanie 5,30%. Atrakcyjniejsza oferta czeka tych, którzy zdecydują się założyć lokatę na 36 miesięcy – tu niezależnie od kwoty depozytu oprocentowanie wyniesie 6,06%.
+Lokata Direct+ przeznaczona jest dla osób zainteresowanych założeniem klasycznej lokaty terminowej, o stałym, wysokim oprocentowaniu. Minimalna kwota depozytu to 5000 zł, lokatę można założyć na okres od 1 do 36 miesięcy. Możliwe jest również automatyczne przedłużenie lokaty na kolejny okres.&lt;/p&gt;</content><author><name>Lokaty</name></author><category term="Santander Bank" /><category term="AIG Bank" /><category term="Lokaty" /><summary type="html">Na tej stronie</summary></entry><entry><title type="html">Lokaty db Trio i db Super Trio w Deutsche Bank PBC S.A.</title><link href="https://lokata.info.pl/lokaty/lokata-db-super-trio-deutsche-bank/" rel="alternate" type="text/html" title="Lokaty db Trio i db Super Trio w Deutsche Bank PBC S.A." /><published>2016-12-24T00:00:00+00:00</published><updated>2016-12-24T00:00:00+00:00</updated><id>https://lokata.info.pl/lokaty/lokata-db-super-trio-deutsche-bank</id><content type="html" xml:base="https://lokata.info.pl/lokaty/lokata-db-super-trio-deutsche-bank/">&lt;p&gt;Na początku 2009 r. Deutsche Bank PBC wprowadza do oferty nowy, innowacyjny produkt depozytowy – lokatę db Trio, stanowiącą połączenie trzech lokat terminowych o okresach 1, 6 oraz 12 miesięcy w ramach jednego produktu. Lokata db Trio to oferta 3 nieodnawialnych lokat łącznie, o stałym oprocentowaniu.&lt;/p&gt;
 
 &lt;p&gt;Lokata db Trio to unikalne połączenie trzech niezależnych okresów oszczędzania w ramach jednego produktu. W jej skład wchodzą następujące lokaty terminowe o stałym oprocentowaniu: 1-miesięczna lokata o oprocentowaniu 9% (20% całości kapitału), 6-miesięczna – o oprocentowaniu 7% (30% całości kapitału) oraz 12-miesięczna – o oprocentowaniu wynoszącym 6% (50% wpłaconych środków).&lt;/p&gt;
 
@@ -5781,466 +5979,4 @@
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Lokaty</name></author><category term="Porównanie lokat" /><summary type="html">Rozpoczął się właśnie kolejny miesiąc, dlatego zapraszamy do zapoznania się z ostatnim w 2013 r. rankingiem lokat bankowych. Zmiany w porównaniu do poprzedniego rankingu znów nie są zbyt wielkie. Na początku grudnia Rada Polityki Pieniężnej (RPP) pozostawiła stopy procentowe na dotychczasowym poziomie. Taka decyzja RPP nie mogła być zaskoczeniem. Już od początku listopada wiadomo, że pierwsze podwyżki stóp procentowych NBP mogą nastąpić dopiero za 9 – 12 miesięcy. Część osób pewnie zdecydowała się już wycofać środki z banków i przenieść je albo do inwestycji w fundusze albo nabywając obligacje skarbowe.</summary></entry><entry><title type="html">Porównanie lokat listopad 2013</title><link href="https://lokata.info.pl/2013/11/porownanie-lokat-listopad-2013/" rel="alternate" type="text/html" title="Porównanie lokat listopad 2013" /><published>2013-11-02T19:50:17+01:00</published><updated>2013-11-02T19:50:17+01:00</updated><id>https://lokata.info.pl/2013/11/porownanie-lokat-listopad-2013</id><content type="html" xml:base="https://lokata.info.pl/2013/11/porownanie-lokat-listopad-2013/">&lt;p&gt;Listopad zaczynamy tradycyjnym zestawieniem miesięcznym. Mimo tego, że od ostatniej obniżki stóp procentowych banku centralnego upłynęły już cztery miesiące, niektóre banki nadal zmniejszają oprocentowanie oferowanych przez siebie lokat terminowych. Wprawdzie cykl obniżek stóp procentowych już się skończył, ale jego efektem jest rekordowo niskie oprocentowanie depozytów. Trzeba mocno się natrudzić, by znaleźć lokaty bankowe przynoszące zysk 3 – 4 proc. Do czasu, aż stopy procentowe NBP nie zaczną rosnąć, nie możemy spodziewać się, że oprocentowanie na lokatach będzie znacząco wyższe. Jedynym pocieszeniem dla klientów jest niska inflacja, która wynosi 1%.&lt;/p&gt;
-
-&lt;p&gt;Warto śledzić porównania i rankingi lokat, bo najgorsze lokaty nie chronią nawet przed inflacją. Średnie oprocentowanie depozytów sklasyfikowanych w październikowym rankingu wynosiło 3,51%. Po upływie miesiąca przeciętna stawka dla dziesięciu najlepszych lokat wzrosła do 3,79%. Trzeba jednak pamiętać, że stawki powyżej 4,00% są elementem czasowych promocji. Jak wynika z ostatnich badań, 13 proc. Polaków uznało lokaty za najbezpieczniejszy sposób zarządzania swoimi nadwyżkami finansowymi. To właśnie depozyty są produktem bankowym, który budzi w nas największe zaufanie. Dlatego też, mimo spadającego oprocentowania, to na lokaty wpłacamy większość oszczędności.&lt;/p&gt;
-
-&lt;h2 id=&quot;lokata-6-miesięcy--10-000-zł-oprocentowanie-stałe&quot;&gt;Lokata 6 miesięcy – 10 000 zł, oprocentowanie stałe&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-  &lt;tr&gt;
-    &lt;th&gt;
-      Bank
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Lokata
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Oprocentowanie
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Zysk
-    &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      Idea Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata na dobry początek
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      4,75%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      96,98zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      GetinOnline
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata na start
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      4,75%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      96,98zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      neoBank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      energoLOKATA
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      4,00%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      81,66zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Meritum Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Pierwsza Lokata
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      4,00%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      81,66zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      BZWBK
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata powitalna 1|2|3
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,35%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      68,39zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;lokata-6-miesięcy--10-000-zł-oprocentowanie-stałe-1&quot;&gt;Lokata 6 miesięcy – 10 000 zł, oprocentowanie stałe&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-  &lt;tr&gt;
-    &lt;th&gt;
-      Bank 
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Lokata 
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Oprocentowanie
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Zysk
-    &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      neoBANK
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      energoLOKATA
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,65%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      147,42zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Alior Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata 185dni
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,60%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      145,40zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      FM Bank PBP
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      FM Lokata PRO
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,50%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      141,36zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      mBank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Skarby Jesieni
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,50%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      141,36zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Invest-Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata zakładane przez lbnet24
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,30%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      133,28zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;lokata-12-miesięcy--10-000-zł-oprocentowanie-stałe&quot;&gt;Lokata 12 miesięcy – 10 000 zł, oprocentowanie stałe&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-  &lt;tr&gt;
-    &lt;th&gt;
-      Bank 
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Lokata
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Oprocentowanie
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Zysk
-    &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      FM Bank PBP
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      FM Lokata PRO
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,70%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      299,70zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Meritum Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata internetowa
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,50%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      283,50zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      mBank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Skarby Jesieni
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,50%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      283,50zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Credit Agricole
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata z Plusem
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,40%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      275,40zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Invest-Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata zakładane przez lbnet24
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,20%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      259,20zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;lokata-24-miesiące--10-000-zł-oprocentowanie-stałe&quot;&gt;Lokata 24 miesiące – 10 000 zł, oprocentowanie stałe&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-  &lt;tr&gt;
-    &lt;th&gt;
-      Bank
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Lokata
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Oprocentowanie
-    &lt;/th&gt;
-    
-    &lt;th&gt;
-      Zysk
-    &lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      Santander Consumer Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Direct+Internet
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      4,10%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      664,20zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      FM Bank PBP
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      FM Lokata PRO
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      4,10%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      664,20zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Open Finance
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata 24M
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,85%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      623,70zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Getin Online
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata 24M
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,85%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      623,70zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  
-  &lt;tr&gt;
-    &lt;td&gt;
-      Getin Bank
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      Lokata na Plus
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      3,80%
-    &lt;/td&gt;
-    
-    &lt;td&gt;
-      615,60zł
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Lokaty</name></author><category term="Porównanie lokat" /><summary type="html">Listopad zaczynamy tradycyjnym zestawieniem miesięcznym. Mimo tego, że od ostatniej obniżki stóp procentowych banku centralnego upłynęły już cztery miesiące, niektóre banki nadal zmniejszają oprocentowanie oferowanych przez siebie lokat terminowych. Wprawdzie cykl obniżek stóp procentowych już się skończył, ale jego efektem jest rekordowo niskie oprocentowanie depozytów. Trzeba mocno się natrudzić, by znaleźć lokaty bankowe przynoszące zysk 3 – 4 proc. Do czasu, aż stopy procentowe NBP nie zaczną rosnąć, nie możemy spodziewać się, że oprocentowanie na lokatach będzie znacząco wyższe. Jedynym pocieszeniem dla klientów jest niska inflacja, która wynosi 1%.</summary></entry></feed>
+&lt;/table&gt;</content><author><name>Lokaty</name></author><category term="Porównanie lokat" /><summary type="html">Rozpoczął się właśnie kolejny miesiąc, dlatego zapraszamy do zapoznania się z ostatnim w 2013 r. rankingiem lokat bankowych. Zmiany w porównaniu do poprzedniego rankingu znów nie są zbyt wielkie. Na początku grudnia Rada Polityki Pieniężnej (RPP) pozostawiła stopy procentowe na dotychczasowym poziomie. Taka decyzja RPP nie mogła być zaskoczeniem. Już od początku listopada wiadomo, że pierwsze podwyżki stóp procentowych NBP mogą nastąpić dopiero za 9 – 12 miesięcy. Część osób pewnie zdecydowała się już wycofać środki z banków i przenieść je albo do inwestycji w fundusze albo nabywając obligacje skarbowe.</summary></entry></feed>
