@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://lokata.info.pl/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://lokata.info.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lokata.info.pl/" rel="alternate" type="text/html" /><updated>2017-01-10T18:46:05+00:00</updated><id>https://lokata.info.pl//</id><title type="html">Porównanie lokat</title><subtitle>Bieżąco aktualizowany ranking lokat i kont bankowych. Zestawiamy, analizujemy i porównujemy lokaty bankowe.</subtitle><author><name>Lokaty</name></author><entry><title type="html">Lokata Direct+ w Banku Santander</title><link href="https://lokata.info.pl/lokaty/lokata-direct-plus-santander/" rel="alternate" type="text/html" title="Lokata Direct+ w Banku Santander" /><published>2017-01-05T00:00:00+00:00</published><updated>2017-01-05T00:00:00+00:00</updated><id>https://lokata.info.pl/lokaty/lokata-direct-plus-santander</id><content type="html" xml:base="https://lokata.info.pl/lokaty/lokata-direct-plus-santander/">&lt;aside class=&quot;sidebar__right&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://lokata.info.pl/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://lokata.info.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lokata.info.pl/" rel="alternate" type="text/html" /><updated>2017-01-14T08:37:11+00:00</updated><id>https://lokata.info.pl//</id><title type="html">Porównanie lokat</title><subtitle>Bieżąco aktualizowany ranking lokat i kont bankowych. Zestawiamy, analizujemy i porównujemy lokaty bankowe.</subtitle><author><name>Lokaty</name></author><entry><title type="html">Lokata Direct+ w Banku Santander</title><link href="https://lokata.info.pl/lokaty/lokata-direct-plus-santander/" rel="alternate" type="text/html" title="Lokata Direct+ w Banku Santander" /><published>2017-01-05T00:00:00+00:00</published><updated>2017-01-05T00:00:00+00:00</updated><id>https://lokata.info.pl/lokaty/lokata-direct-plus-santander</id><content type="html" xml:base="https://lokata.info.pl/lokaty/lokata-direct-plus-santander/">&lt;aside class=&quot;sidebar__right&quot;&gt;
 &lt;nav class=&quot;toc&quot;&gt;
     &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; Na tej stronie&lt;/h4&gt;&lt;/header&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
@@ -179,17 +179,61 @@ Np.: 6 miesięcy – do 4,30%
 Przykład:
 Poniższa tabela prezentuje przykładowe zyski – wysokość odsetek z lokaty w kwocie 60.000 zł (uwzględniając zaliczkę na podatek od odsetek od lokat).&lt;/p&gt;
 
-&lt;p&gt;6 m-cy 
-9 m-cy 
-12 m-cy 
-24 m-ce 
-36 m-cy 
-60 000,00 
-1 290,00 
-1 877,00 
-2 670,00 
-5 760,00 
-9 180,00&lt;/p&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      6 m-cy
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      9 m-cy
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      12 m-cy
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      24 m-ce
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      36 m-cy
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      60 000,00
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1 290,00
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1 877,00
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2 670,00
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      5 760,00
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      9 180,00
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;September 18, 2007&lt;/p&gt;
 
@@ -280,15 +324,7 @@ Lokata Direct+ przeznaczona jest dla osób zainteresowanych założeniem klasycz
 	&lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p class=&quot;notice--info&quot;&gt;Informacja o lokacie eDepozyt ma charakter archiwalny. Nordea Bank pod koniec 2014 r. został przejęty przez PKO BP.&lt;/p&gt;</content><author><name>Lokaty</name></author><category term="Nordea Bank" /><category term="Lokaty" /><summary type="html">Nordea Bank w dniu 7 lutego 2003 wprowadził do swojej oferty nowy produkt depozytowy. Minimalna kwota lokaty to 5 000 zł. Oprocentowanie stałe dla 3 miesięcznego okresu deponowania wynosi 5,45% oraz dla 6 miesięcznego 5,25% w skali roku. W pierwszej odsłonie Lokatę e-Depozyt można było założyć do 30 czerwca 2003 r. Adresatami byli przede wszystkim klienci indywidualni posiadający rachunek NORDEA lub NORDEA VIP z dostępem do bankowości internetowej Nordea, a także klienci instytucjonalni posiadający rachunek eFirma.</summary></entry><entry><title type="html">Lokata Dominanta Forte w Dominet Banku</title><link href="https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank/" rel="alternate" type="text/html" title="Lokata Dominanta Forte w Dominet Banku" /><published>2016-12-21T00:00:00+00:00</published><updated>2016-12-21T00:00:00+00:00</updated><id>https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank</id><content type="html" xml:base="https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank/">&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-
-&lt;!-- mieszkanie --&gt;
-&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:750px;height:300px&quot; data-ad-client=&quot;ca-pub-1613256083770138&quot; data-ad-slot=&quot;8737739004&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Pod koniec 2002 r. Dominet Bank dysponując względnie niewielką bazą stacjonarnych oddziałów (w tym czasie ok. 90 placówek) rozpoczął intensywną kampanię promocyjną swojej wysokooprocentowanej lokaty temirnowej Dominanta Forte. W tym celu oferował założenie lokaty nie tylko za pośrednictwem własnej strony internetowej, ale też nawiązał współpracę z pasażem finansowym Wirtualnej Polski.&lt;/p&gt;
+&lt;p class=&quot;notice--info&quot;&gt;Informacja o lokacie eDepozyt ma charakter archiwalny. Nordea Bank pod koniec 2014 r. został przejęty przez PKO BP.&lt;/p&gt;</content><author><name>Lokaty</name></author><category term="Nordea Bank" /><category term="Lokaty" /><summary type="html">Nordea Bank w dniu 7 lutego 2003 wprowadził do swojej oferty nowy produkt depozytowy. Minimalna kwota lokaty to 5 000 zł. Oprocentowanie stałe dla 3 miesięcznego okresu deponowania wynosi 5,45% oraz dla 6 miesięcznego 5,25% w skali roku. W pierwszej odsłonie Lokatę e-Depozyt można było założyć do 30 czerwca 2003 r. Adresatami byli przede wszystkim klienci indywidualni posiadający rachunek NORDEA lub NORDEA VIP z dostępem do bankowości internetowej Nordea, a także klienci instytucjonalni posiadający rachunek eFirma.</summary></entry><entry><title type="html">Lokata Dominanta Forte w Dominet Banku</title><link href="https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank/" rel="alternate" type="text/html" title="Lokata Dominanta Forte w Dominet Banku" /><published>2016-12-21T00:00:00+00:00</published><updated>2016-12-21T00:00:00+00:00</updated><id>https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank</id><content type="html" xml:base="https://lokata.info.pl/lokaty/lokata-dominanta-forte-dominet-bank/">&lt;p&gt;Pod koniec 2002 r. Dominet Bank dysponując względnie niewielką bazą stacjonarnych oddziałów (w tym czasie ok. 90 placówek) rozpoczął intensywną kampanię promocyjną swojej wysokooprocentowanej lokaty temirnowej Dominanta Forte. W tym celu oferował założenie lokaty nie tylko za pośrednictwem własnej strony internetowej, ale też nawiązał współpracę z pasażem finansowym Wirtualnej Polski.&lt;/p&gt;
 
 &lt;p&gt;Jak mówił wówczas przedstawiciel banku:&lt;/p&gt;
 
@@ -331,7 +367,7 @@ Lokata Direct+ przeznaczona jest dla osób zainteresowanych założeniem klasycz
 
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th rowspan=&quot;2&quot;&gt;Rodzaj oprocentowania&lt;/th&gt;&lt;th rowspan=&quot;2&quot;&gt;Termin lokaty&lt;/th&gt;&lt;th colspan=&quot;3&quot;&gt;Oprocentowanie dla kwot z przedziału&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;do 9.999,99 zł&lt;/th&gt;&lt;th&gt;od 10.000,00 zł do 99.999,99 zł&lt;/th&gt;&lt;th&gt;od 100.000,00 zł&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;Stopa stała&lt;/td&gt;&lt;td&gt;1 miesiąc&lt;/td&gt;&lt;td&gt;5,00&lt;/td&gt;&lt;td&gt;5,00&lt;/td&gt;&lt;td&gt;5,10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3 miesiące&lt;/td&gt;&lt;td&gt;5,80&lt;/td&gt;&lt;td&gt;5,80&lt;/td&gt;&lt;td&gt;6,00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6 miesięcy&lt;/td&gt;&lt;td&gt;6,30&lt;/td&gt;&lt;td&gt;6,30&lt;/td&gt;&lt;td&gt;6,50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12 miesięcy&lt;/td&gt;&lt;td&gt;7,10&lt;/td&gt;&lt;td&gt;7,10&lt;/td&gt;&lt;td&gt;7,30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;3&quot;&gt;Stopa zmienna&lt;/td&gt;&lt;td&gt;3 miesiące&lt;/td&gt;&lt;td&gt;3,85&lt;/td&gt;&lt;td&gt;4,10&lt;/td&gt;&lt;td&gt;4,20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6 miesięcy&lt;/td&gt;&lt;td&gt;3,95&lt;/td&gt;&lt;td&gt;4,20&lt;/td&gt;&lt;td&gt;4,30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12 miesięcy&lt;/td&gt;&lt;td&gt;4,05&lt;/td&gt;&lt;td&gt;4,30&lt;/td&gt;&lt;td&gt;4,40&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
 
-&lt;p class=&quot;notice--info&quot;&gt;Informacja o lokacie Dominanta Forte ma charakter archiwalny. Dominet Bank latem 2009 r. został przejęty przez Fortis Bank, a marka Dominet wkrótce zniknęła z rynku.&lt;/p&gt;</content><author><name>Lokaty</name></author><category term="Dominet Bank" /><category term="Lokaty" /><summary type="html"></summary></entry><entry><title type="html">Zestawienie lokat – maj 2014</title><link href="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/" rel="alternate" type="text/html" title="Zestawienie lokat &amp;#8211; maj 2014" /><published>2014-05-02T09:14:53+01:00</published><updated>2014-05-02T09:14:53+01:00</updated><id>https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014</id><content type="html" xml:base="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/">&lt;p&gt;Zaczął się maj, więc pora na tradycyjny, comiesięczny zestaw dla oszczędzających. &lt;strong&gt;Zestawienie lokat&lt;/strong&gt; pokaże Wam, gdzie oszczędzicie najwięcej pieniędzy. Ranking zawiera informacje na temat zmian oprocentowania lokat bankowych jakie zaszły od ostatniego porównania. Zazwyczaj banki wymagają posiadania konta osobistego czy po prostu dana oferta dostępna jest wyłącznie dla nowych klientów. Czasami dotyczy ona nowych środków przyniesionych do banku. Jeśli bank oferuje kilka dobrych lokat dla danego terminu, w tabelce umieściliśmy tylko jedną, tę najlepszą. W zestawieniu nie zostały uwzględnione produkty, które wymagają od klienta dodatkowej aktywności.&lt;/p&gt;
+&lt;p class=&quot;notice--info&quot;&gt;Informacja o lokacie Dominanta Forte ma charakter archiwalny. Dominet Bank latem 2009 r. został przejęty przez Fortis Bank, a marka Dominet wkrótce zniknęła z rynku.&lt;/p&gt;</content><author><name>Lokaty</name></author><category term="Dominet Bank" /><category term="Lokaty" /><summary type="html">Pod koniec 2002 r. Dominet Bank dysponując względnie niewielką bazą stacjonarnych oddziałów (w tym czasie ok. 90 placówek) rozpoczął intensywną kampanię promocyjną swojej wysokooprocentowanej lokaty temirnowej Dominanta Forte. W tym celu oferował założenie lokaty nie tylko za pośrednictwem własnej strony internetowej, ale też nawiązał współpracę z pasażem finansowym Wirtualnej Polski.</summary></entry><entry><title type="html">Zestawienie lokat – maj 2014</title><link href="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/" rel="alternate" type="text/html" title="Zestawienie lokat &amp;#8211; maj 2014" /><published>2014-05-02T09:14:53+01:00</published><updated>2014-05-02T09:14:53+01:00</updated><id>https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014</id><content type="html" xml:base="https://lokata.info.pl/2014/05/zestawienie-lokat-maj-2014/">&lt;p&gt;Zaczął się maj, więc pora na tradycyjny, comiesięczny zestaw dla oszczędzających. &lt;strong&gt;Zestawienie lokat&lt;/strong&gt; pokaże Wam, gdzie oszczędzicie najwięcej pieniędzy. Ranking zawiera informacje na temat zmian oprocentowania lokat bankowych jakie zaszły od ostatniego porównania. Zazwyczaj banki wymagają posiadania konta osobistego czy po prostu dana oferta dostępna jest wyłącznie dla nowych klientów. Czasami dotyczy ona nowych środków przyniesionych do banku. Jeśli bank oferuje kilka dobrych lokat dla danego terminu, w tabelce umieściliśmy tylko jedną, tę najlepszą. W zestawieniu nie zostały uwzględnione produkty, które wymagają od klienta dodatkowej aktywności.&lt;/p&gt;
 
 &lt;p&gt;Rada Polityki Pieniężnej po raz kolejny nie zdecydowała o zmianie stóp procentowych. Mimo to na rynku lokat bankowych po raz kolejny odnotowaliśmy zmiany.&lt;/p&gt;
 
